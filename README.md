@@ -18,22 +18,22 @@ Perform an end-to-end Exploratory Data Analysis (EDA) on French unemployment tre
 ### 1. National Unemployment Trend (2010-2023)
 The national rate dropped significantly from its peak of 10.4% in 2013 down to 7.3% in 2023, showing a strong post-COVID recovery[cite: 1, 2].
 
-![National Trend](dashboard/chart1_trend.png)
+![National Trend](dashboard/cite1.png)
 
 ### 2. Unemployment by Age Group
 Youth unemployment (15-24) remains a structural issue, consistently sitting 2 to 3 times higher than the national average, even though it improved to 17.4% in 2023[cite: 1, 2].
 
-![Age Group Analysis](dashboard/chart2_age.png)
+![Age Group Analysis](dashboard/cite2.png)
 
 ### 3. Gender Gap Disparities
 The gap between men and women has nearly closed over the decade, reaching a narrow 0.6 percentage point difference in 2023 (7.0% for men vs 7.6% for women).
 
-![Gender Gap](dashboard/chart3_gender.png)
+![Gender Gap](dashboard/cite3.png)
 
 ### 4. Regional Disparities
 We observe major geographical gaps across France. **Hauts-de-France** suffers from the highest rate (11.3%), while **Bretagne** shows the best performance at 5.8%.
 
-![Regional Disparities](dashboard/chart4_regions.png)
+![Regional Disparities](dashboard/cite4.png)
 
 ---
 
