@@ -18,7 +18,7 @@ Perform an end-to-end Exploratory Data Analysis (EDA) on French unemployment tre
 ### 1. National Unemployment Trend (2010-2023)
 The national rate dropped significantly from its peak of 10.4% in 2013 down to 7.3% in 2023, showing a strong post-COVID recovery[cite: 1, 2].
 
-![National Trend](dashboard/cite1.png)
+![National Trend]([dashboard/cite1.png])
 
 ### 2. Unemployment by Age Group
 Youth unemployment (15-24) remains a structural issue, consistently sitting 2 to 3 times higher than the national average, even though it improved to 17.4% in 2023[cite: 1, 2].
